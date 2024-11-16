@@ -1,0 +1,18 @@
+{
+  "allContacts": [
+    {
+      "name": "Arya Sarang",
+      "phone": "8891433400",
+      "email": "aryasarang@gmail.com",
+      "contactImg": "https://ui-avatars.com/api/?background=random&name=Arya Vinod",
+      "id": "7a6a"
+    },
+    {
+      "id": "4c7b",
+      "name": "sarang",
+      "phone": "7012981845",
+      "email": "sarang@gmail.com",
+      "contactImg": "https://ui-avatars.com/api/?background=random&name=sarang"
+    }
+  ]
+}
